@@ -1,4 +1,4 @@
-رHospital Management System (HMS)
+Hospital Management System (HMS)
 Hospital Management System using MySQL, PhP, HTML5, CSS3, JS and Bootstrap.
 
 
